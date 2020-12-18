@@ -1,0 +1,17 @@
+{
+    "name": "teqfreak/php-utils",
+    "description": "A test composer package",
+    "type": "library",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Emiel Klein Ovink",
+            "email": "github@emiel.cc"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"teqfreak\\PHP Utils\\": "src/"}
+    },
+    "require": {}
+}
